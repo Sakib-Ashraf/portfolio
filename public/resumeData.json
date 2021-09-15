@@ -1,0 +1,196 @@
+{
+  "main": {
+    "name":"Sakib Ashraf",
+    "description":"I'm a Full Stack (PERN/MERN) Web Developer and My Web Development Stack is including HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, And POSTGRESQL. This is My Portfolio and Resume Site. And You are WELCOME here.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a Full Stack (PERN/MERN) Web Developer. My Web Development Stack is including HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, And POSTGRESQL. I'm Studying B.Sc in Physics at Chittagong College. Though I Know Adobe Photoshop, Adobe Illustrator, And Adobe InDesign, I love Coding and Programming. Seeking an entry-level position to begin my career in a high-level professional environment. Also secure a Responsible career opportunity & a challenging position in a reputable organization to fully utilize my training and skills to expand my learnings, knowledge, and skills. While making a significant contribution to the success of the company. My strength is my positive attitude. I'm an Optimistic person. I do not want to lose until I really defeated and I always hope for the best. Because I believe that by only holding positivity in our hearts we can attract positivity and creativity.",
+    "contactmessage":"Let's Have a Conversion About Everything.",
+    "email": "sakibashraf5898@gmail.com",
+    "phone": "+8801744491526",
+    "github":"https://github.com/Sakib-Ashraf",
+    "project":"https://github.com/Sakib-Ashraf",
+    "address":{
+      "street":"Road no - 3",
+      "city":"Mojaffar Nagar R/A, East Nasirabad, Polytechnical",
+      "state":"Chattogram",
+      "zip": "4209"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1GiM0TY6b5wimmza5beYYdT-cT4fH9zj6/view?usp=sharing"
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"NATIONAL UNIVERSITY",
+        "degree":"B.Sc.(Hon's) in Physics",
+        "graduated":"2nd Year Pursuing",
+        "description":"Doing B.Sc. in Physics Under National University at Chittagong Collage With Non-Major Mathematics and Chemistry"
+      },
+      {
+        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA ",
+        "degree":"Alim (H.S.C)",
+        "graduated":"2017 – 2019",
+        "description":"From Science Background with GPA 4.56 Out of 5.00"
+      },
+      {
+        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA ",
+        "degree":"DAKHIL (S.S.C)",
+        "graduated":"2015 – 2017",
+        "description":"From Science Background with GPA 5.00 Out of 5.00"
+      }
+    ],
+    "work":[
+      {
+        "company":"NATIONAL BLOOD CARAVAN",
+        "title":"Online Director & Web Application Developer (Voluntary)",
+        "years":"July 2021 - Present",
+        "description":"Making a PERN Stack Web Application Using Latest Technology as BOOTSTRAP, REACT For Frontend And NODEJS, EXPRESSJS As Backend And PostgreSQL As Database And Maintaining That With Continues Bug Fixing And Performance Improvement. (This Is a Charitable Project And Under Development"
+      },
+      {
+        "company":"FIVERR & FREELANCER",
+        "title":"Graphic Designer (Freelance)",
+        "years":"JUNE 2020 - March 2021",
+        "description":"Making LOGO, Business Card, Flyer, Brochure And Graphical Item For Business Identity For International Outsourcing Client. (It Was Part-time Work From My Curiosity About Graphic Design.)"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"BOOTSTRAP",
+        "level":"70%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"75%"
+      },
+      {
+        "name":"ES6-ES2020",
+        "level":"70%"
+      },
+      {
+        "name":"REACTJS",
+        "level":"75%"
+      },
+      {
+        "name":"REDUX",
+        "level":"60%"
+      },
+      {
+        "name":"NEXTJS",
+        "level":"70%"
+      },
+      {
+        "name":"NODEJS",
+        "level":"70%"
+      },
+      {
+        "name":"EXPRESSJS",
+        "level":"70%"
+      },
+      {
+        "name":"POSTGRESQL",
+        "level":"65%"
+      },
+      {
+        "name":"MONGODB",
+        "level":"65%"
+      },
+      {
+        "name":"ADOBE PHOTOSHOP",
+        "level":"65%"
+      },
+      {
+        "name":"ADOBE ILLUSTRATOR",
+        "level":"65%"
+      },
+      {
+        "name":"ADOBE INDESIGN",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
