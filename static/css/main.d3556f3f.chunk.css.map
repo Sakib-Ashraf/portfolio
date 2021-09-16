@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/Header.css"],"names":[],"mappings":"AAAA,WACE,cAAe,CACf,KAAM,CACN,OAAQ,CACR,QAAS,CACT,MAAO,CACP,SACF","file":"main.d3556f3f.chunk.css","sourcesContent":[".particles {\r\n  position: fixed;\r\n  top: 0;\r\n  right: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  z-index: 0;\r\n}"]}
