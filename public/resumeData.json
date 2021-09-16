@@ -3,7 +3,7 @@
     "name":"Sakib Ashraf",
     "description":"I'm a Full Stack (PERN/MERN) Web Developer and My Web Development Stack is including HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, And POSTGRESQL. This is My Portfolio and Resume Site. And You are WELCOME here.",
     "image":"profilepic.jpg",
-    "bio":"I'm a Full Stack (PERN/MERN) Web Developer. My Web Development Stack is including HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, And POSTGRESQL. I'm Studying B.Sc in Physics at Chittagong College. Though I Know Adobe Photoshop, Adobe Illustrator, And Adobe InDesign, I love Coding and Programming. Seeking an entry-level position to begin my career in a high-level professional environment. Also secure a Responsible career opportunity & a challenging position in a reputable organization to fully utilize my training and skills to expand my learnings, knowledge, and skills. While making a significant contribution to the success of the company. My strength is my positive attitude. I'm an Optimistic person. I do not want to lose until I really defeated and I always hope for the best. Because I believe that by only holding positivity in our hearts we can attract positivity and creativity.",
+    "bio":"I'm a Full Stack (PERN/MERN) Web Developer. My Web Development Stack is including HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, And POSTGRESQL. I'm Studying B.Sc in Physics at Chittagong College. Though I Know Adobe Photoshop, Adobe Illustrator, And Adobe InDesign, I love Coding and Programming. Seeking An Entry-level Position To Begin My Career In a High-level Professional Environment. Also Secure a Responsible Career Opportunity & a Challenging Position In a Reputable Organization To Fully Utilize My Training And Skills To Expand My Learnings, Knowledge, And Skills. While Making a Significant Contribution To The Success Of The Company. My Strength Is My Positive Attitude. I'm an Optimistic Person. I Do Not Want To Lose Until I Really Defeated And I Always Hope For The Best. Because I Believe That By Only Holding Positivity In Our Hearts We Can Attract Positivity And Creativity.",
     "contactmessage":"Let's Have a Conversion About Everything.",
     "email": "sakibashraf5898@gmail.com",
     "phone": "+8801744491526",
@@ -16,7 +16,7 @@
       "zip": "4209"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1GiM0TY6b5wimmza5beYYdT-cT4fH9zj6/view?usp=sharing"
+    "resumedownload":"./docs/SAYED ASHRAFUL ISLAM SAKIB.pdf"
   },
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
@@ -120,76 +120,64 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Portfolio Website",
+        "category":"My Portfolio & Resume Website Built With React.",
         "image":"01.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://www.sayedashrafulislamsakib.tk"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"National Blood Caravan",
+        "category":"Website For A Charitable Blood Donation Service Built With React.",
         "image":"02.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"http://www.nationalbloodcaravan.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
+        "title":"Smart-Brain",
+        "category":"An API based Face Detecting Website Built With React",
         "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "url":"https://smart-brain-facedetect-front.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Weatherify",
+        "category":"An API based Weather Update Website Built With React.",
         "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":"https://sakib-ashraf.github.io/Weatherify/"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "title":"ROBOFRIENDS",
+        "category":"An API based ROBOFRIENDS Website Built With React.",
         "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
+        "url":"https://sakib-ashraf.github.io/robofriends/"
       },
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Expanding Card",
+        "category":"Expanding Cards System Built With Vanilla JS.",
         "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":"https://sakib-ashraf.github.io/50Project50Day-P1-ExpandingCards/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"01.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"RAW Coded Website",
+        "category":"RAW Coded Website Built With Only HTML5 & CSS3.",
+        "image":"07.jpg",
+        "url":"https://sakib-ashraf.github.io/Practice-HTML---CSS/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"02.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Background Generator",
+        "category":"Website Built By using RAW HTML, CSS, And Vanilla JS, For Generating Random Color.",
+        "image":"08.jpg",
+        "url":"https://sakib-ashraf.github.io/Background-Generator/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"03.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Color Converter",
+        "category":"Website Built By using RAW HTML, CSS, And Vanilla JS, For Converting Color.",
+        "image":"09.jpg",
+        "url":"https://sakib-ashraf.github.io/Coding-Challange-6/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"04.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"05.jpg",
-        "url":"http://www.smirkspace.com"
-      },
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"06.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"To-Do List",
+        "category":"Website Built By using RAW HTML, CSS, And Vanilla JS.",
+        "image":"10.jpg",
+        "url":"https://sakib-ashraf.github.io/To-Do-list-Shopping-list/"
       }
     ]
   }

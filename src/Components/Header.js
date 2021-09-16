@@ -26,13 +26,13 @@ const particlesOptions = {
 			},
 		},
 		color: {
-			value: 'rgb(26, 28, 61)',
+			value: '#3269ff',
 		},
 		shape: {
 			type: 'circle',
 			stroke: {
 				width: 0,
-				color: 'rgb(26, 28, 61)',
+				color: '#3269ff',
 			},
 			polygon: {
 				nb_sides: 5,
@@ -66,7 +66,7 @@ const particlesOptions = {
 		line_linked: {
 			enable: true,
 			distance: 150,
-			color: 'rgb(47, 54, 173)',
+			color: '#3269ff',
 			opacity: 0.4,
 			width: 1,
 		},
@@ -86,14 +86,14 @@ const particlesOptions = {
 		},
 	},
 	interactivity: {
-		detect_on: 'window',
+		detect_on: 'canvas',
 		events: {
 			onhover: {
 				enable: false,
 				mode: 'grab',
 			},
 			onclick: {
-				enable: false,
+				enable: true,
 				mode: 'push',
 			},
 			resize: true,
