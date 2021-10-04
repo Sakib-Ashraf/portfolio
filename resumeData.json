@@ -15,26 +15,29 @@
       "state":"Chattogram",
       "zip": "4209"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.sayedashrafulislamsakib.com",
     "resumedownload":"./docs/SAYED ASHRAFUL ISLAM SAKIB.pdf"
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here's All Of My Skills",
     "education":[
       {
+        "id": 0,
         "school":"NATIONAL UNIVERSITY",
         "degree":"B.Sc.(Hon's) in Physics",
         "graduated":"2nd Year Pursuing",
         "description":"Doing B.Sc. in Physics Under National University at Chittagong Collage With Non-Major Mathematics and Chemistry"
       },
       {
-        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA ",
+        "id": 1,
+        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA",
         "degree":"Alim (H.S.C)",
         "graduated":"2017 – 2019",
         "description":"From Science Background with GPA 4.56 Out of 5.00"
       },
       {
-        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA ",
+        "id": 2,
+        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA",
         "degree":"DAKHIL (S.S.C)",
         "graduated":"2015 – 2017",
         "description":"From Science Background with GPA 5.00 Out of 5.00"
@@ -45,7 +48,7 @@
         "company":"NATIONAL BLOOD CARAVAN",
         "title":"Online Director & Web Application Developer (Voluntary)",
         "years":"July 2021 - Present",
-        "description":"Making a PERN Stack Web Application Using Latest Technology as BOOTSTRAP, REACT For Frontend And NODEJS, EXPRESSJS As Backend And PostgreSQL As Database And Maintaining That With Continues Bug Fixing And Performance Improvement. (This Is a Charitable Project And Under Development"
+        "description":"Making a PERN Stack Web Application Using Latest Technology as BOOTSTRAP, REACT For Frontend And NODEJS, EXPRESSJS As Backend, And PostgreSQL As Database, And Redis With JWT Session Management System And Maintaining That With Continues Bug Fixing And Performance Improvement. (This Is a Charitable Project And Under Development)"
       },
       {
         "company":"FIVERR & FREELANCER",
@@ -57,30 +60,38 @@
     "skills":[
       {
         "name":"HTML5",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"CSS3",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"BOOTSTRAP",
-        "level":"70%"
+        "level":"77%"
       },
       {
         "name":"JAVASCRIPT",
+        "level":"80%"
+      },
+      {
+        "name":"TYPESCRIPT",
         "level":"75%"
       },
       {
         "name":"ES6-ES2020",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"REACTJS",
-        "level":"75%"
+        "level":"80%"
       },
       {
         "name":"REDUX",
+        "level":"75%"
+      },
+      {
+        "name":"WEBPACK",
         "level":"60%"
       },
       {
@@ -89,19 +100,47 @@
       },
       {
         "name":"NODEJS",
-        "level":"70%"
+        "level":"78%"
       },
       {
         "name":"EXPRESSJS",
-        "level":"70%"
+        "level":"80%"
       },
       {
         "name":"POSTGRESQL",
-        "level":"65%"
+        "level":"80%"
       },
       {
         "name":"MONGODB",
-        "level":"65%"
+        "level":"75%"
+      },
+      {
+        "name":"SSH",
+        "level":"85%"
+      },
+      {
+        "name":"JEST",
+        "level":"75%"
+      },
+      {
+        "name":"CSR/SSR",
+        "level":"80%"
+      },
+      {
+        "name":"JWT",
+        "level":"80%"
+      },
+      {
+        "name":"DOCKER",
+        "level":"78%"
+      },
+      {
+        "name":"REDIS",
+        "level":"75%"
+      },
+      {
+        "name":"AWS",
+        "level":"70%"
       },
       {
         "name":"ADOBE PHOTOSHOP",
