@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7532a101.css","mappings":"AAAA,WAIE,QAAS,CACT,MAAO,CAJP,cAAe,CAEf,OAAQ,CADR,KAAM,CAIN,SACF","sources":["Components/Header.css"],"sourcesContent":[".particles {\r\n  position: fixed;\r\n  top: 0;\r\n  right: 0;\r\n  bottom: 0;\r\n  left: 0;\r\n  z-index: 0;\r\n}"],"names":[],"sourceRoot":""}

@@ -1,0 +1,223 @@
+{
+  "main": {
+    "name":"Sakib Ashraf",
+    "description":"I'm a Full Stack (PERN/MERN) Web Developer and My Web Development Stack is including HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, And POSTGRESQL. This is My Portfolio and Resume Site. And You are WELCOME here.",
+    "image":"profilepic.jpg",
+    "bio":"I'm a Full Stack (PERN/MERN) Web Developer. My Web Development Stack is including HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACTJS, NODEJS, EXPRESSJS, MONGODB, And POSTGRESQL. I'm Studying B.Sc in Physics at Chittagong College. Though I Know Adobe Photoshop, Adobe Illustrator, And Adobe InDesign, I love Coding and Programming. Seeking An Entry-level Position To Begin My Career In a High-level Professional Environment. Also Secure a Responsible Career Opportunity & a Challenging Position In a Reputable Organization To Fully Utilize My Training And Skills To Expand My Learnings, Knowledge, And Skills. While Making a Significant Contribution To The Success Of The Company. My Strength Is My Positive Attitude. I'm an Optimistic Person. I Do Not Want To Lose Until I Really Defeated And I Always Hope For The Best. Because I Believe That By Only Holding Positivity In Our Hearts We Can Attract Positivity And Creativity.",
+    "contactmessage":"Let's Have a Conversion About Everything.",
+    "email": "sakibashraf5898@gmail.com",
+    "phone": "+8801744491526",
+    "github":"https://github.com/Sakib-Ashraf",
+    "project":"https://github.com/Sakib-Ashraf",
+    "address":{
+      "street":"Road no - 3",
+      "city":"Mojaffar Nagar R/A, East Nasirabad, Polytechnical",
+      "state":"Chattogram",
+      "zip": "4209"
+    },
+    "website": "http://www.sayedashrafulislamsakib.com",
+    "resumedownload":"./docs/SAYED ASHRAFUL ISLAM SAKIB.pdf"
+  },
+  "resume":{
+    "skillmessage":"Here's All Of My Skills",
+    "education":[
+      {
+        "id": 0,
+        "school":"NATIONAL UNIVERSITY",
+        "degree":"B.Sc.(Hon's) in Physics",
+        "graduated":"2nd Year Pursuing",
+        "description":"Doing B.Sc. in Physics Under National University at Chittagong Collage With Non-Major Mathematics and Chemistry"
+      },
+      {
+        "id": 1,
+        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA",
+        "degree":"Alim (H.S.C)",
+        "graduated":"2017 – 2019",
+        "description":"From Science Background with GPA 4.56 Out of 5.00"
+      },
+      {
+        "id": 2,
+        "school":"BAITUSH SHARAF ADARSHA KMAIL MADRASHA",
+        "degree":"DAKHIL (S.S.C)",
+        "graduated":"2015 – 2017",
+        "description":"From Science Background with GPA 5.00 Out of 5.00"
+      }
+    ],
+    "work":[
+      {
+        "company":"NATIONAL BLOOD CARAVAN",
+        "title":"Online Director & Web Application Developer (Voluntary)",
+        "years":"July 2021 - Present",
+        "description":"Making a PERN Stack Web Application Using Latest Technology as BOOTSTRAP, REACT For Frontend And NODEJS, EXPRESSJS As Backend, And PostgreSQL As Database, And Redis With JWT Session Management System And Maintaining That With Continues Bug Fixing And Performance Improvement. (This Is a Charitable Project And Under Development)"
+      },
+      {
+        "company":"FIVERR & FREELANCER",
+        "title":"Graphic Designer (Freelance)",
+        "years":"JUNE 2020 - March 2021",
+        "description":"Making LOGO, Business Card, Flyer, Brochure And Graphical Item For Business Identity For International Outsourcing Client. (It Was Part-time Work From My Curiosity About Graphic Design.)"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"90%"
+      },
+      {
+        "name":"CSS3",
+        "level":"80%"
+      },
+      {
+        "name":"BOOTSTRAP",
+        "level":"77%"
+      },
+      {
+        "name":"JAVASCRIPT",
+        "level":"80%"
+      },
+      {
+        "name":"TYPESCRIPT",
+        "level":"75%"
+      },
+      {
+        "name":"ES6-ES2020",
+        "level":"80%"
+      },
+      {
+        "name":"REACTJS",
+        "level":"80%"
+      },
+      {
+        "name":"REDUX",
+        "level":"75%"
+      },
+      {
+        "name":"WEBPACK",
+        "level":"60%"
+      },
+      {
+        "name":"NEXTJS",
+        "level":"70%"
+      },
+      {
+        "name":"NODEJS",
+        "level":"78%"
+      },
+      {
+        "name":"EXPRESSJS",
+        "level":"80%"
+      },
+      {
+        "name":"POSTGRESQL",
+        "level":"80%"
+      },
+      {
+        "name":"MONGODB",
+        "level":"75%"
+      },
+      {
+        "name":"SSH",
+        "level":"85%"
+      },
+      {
+        "name":"JEST",
+        "level":"75%"
+      },
+      {
+        "name":"CSR/SSR",
+        "level":"80%"
+      },
+      {
+        "name":"JWT",
+        "level":"80%"
+      },
+      {
+        "name":"DOCKER",
+        "level":"78%"
+      },
+      {
+        "name":"REDIS",
+        "level":"75%"
+      },
+      {
+        "name":"AWS",
+        "level":"70%"
+      },
+      {
+        "name":"ADOBE PHOTOSHOP",
+        "level":"65%"
+      },
+      {
+        "name":"ADOBE ILLUSTRATOR",
+        "level":"65%"
+      },
+      {
+        "name":"ADOBE INDESIGN",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Portfolio Website",
+        "category":"My Portfolio & Resume Website Built With React.",
+        "image":"01.jpg",
+        "url":"https://www.sayedashrafulislamsakib.tk"
+      },
+      {
+        "title":"National Blood Caravan",
+        "category":"Website For A Charitable Blood Donation Service Built With React.",
+        "image":"02.jpg",
+        "url":"http://www.nationalbloodcaravan.com"
+      },
+      {
+        "title":"Smart-Brain",
+        "category":"An API based Face Detecting Website Built With React",
+        "image":"03.jpg",
+        "url":"https://smart-brain-facedetect-front.herokuapp.com/"
+      },
+      {
+        "title":"Weatherify",
+        "category":"An API based Weather Update Website Built With React.",
+        "image":"04.jpg",
+        "url":"https://sakib-ashraf.github.io/Weatherify/"
+      },
+      {
+        "title":"ROBOFRIENDS",
+        "category":"An API based ROBOFRIENDS Website Built With React.",
+        "image":"05.jpg",
+        "url":"https://sakib-ashraf.github.io/robofriends/"
+      },
+      {
+        "title":"Expanding Card",
+        "category":"Expanding Cards System Built With Vanilla JS.",
+        "image":"06.jpg",
+        "url":"https://sakib-ashraf.github.io/50Project50Day-P1-ExpandingCards/"
+      },
+      {
+        "title":"RAW Coded Website",
+        "category":"RAW Coded Website Built With Only HTML5 & CSS3.",
+        "image":"07.jpg",
+        "url":"https://sakib-ashraf.github.io/Practice-HTML---CSS/"
+      },
+      {
+        "title":"Background Generator",
+        "category":"Website Built By using RAW HTML, CSS, And Vanilla JS, For Generating Random Color.",
+        "image":"08.jpg",
+        "url":"https://sakib-ashraf.github.io/Background-Generator/"
+      },
+      {
+        "title":"Color Converter",
+        "category":"Website Built By using RAW HTML, CSS, And Vanilla JS, For Converting Color.",
+        "image":"09.jpg",
+        "url":"https://sakib-ashraf.github.io/Coding-Challange-6/"
+      },
+      {
+        "title":"To-Do List",
+        "category":"Website Built By using RAW HTML, CSS, And Vanilla JS.",
+        "image":"10.jpg",
+        "url":"https://sakib-ashraf.github.io/To-Do-list-Shopping-list/"
+      }
+    ]
+  }
+}
